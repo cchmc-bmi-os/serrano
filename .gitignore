@@ -1,0 +1,10 @@
+*.py?
+*.sw?
+*.egg
+*.egg-info
+.DS_Store
+.coverage
+MANIFEST
+dist
+docs/_build
+profiled_tests.txt
